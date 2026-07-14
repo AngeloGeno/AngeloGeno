@@ -1,6 +1,6 @@
 <!-- Custom Banner -->
 <p align="center">
-<img src="assets/Banner image Geno.png" alt="Nhlanhla (Angelo) Nkomo - Junior Data Analyst & Software Developer" width="100%" />
+<img src="assets/Banner.png" alt="Nhlanhla (Angelo) Nkomo - Junior Data Analyst & Software Developer" width="100%" />
 </p>
 
 <p align="center">
