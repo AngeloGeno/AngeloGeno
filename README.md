@@ -42,13 +42,18 @@ I'm a **Junior Data Analyst** and **Software Developer** with a passion for solv
 
 ## 📊 GitHub Stats
 
+<!--
+  Self-hosted via .github/workflows/stats.yml (stats-organization/github-readme-stats-action
+  and DenverCoder1/github-readme-streak-stats). Regenerates daily and on every push, so these
+  cards keep working even if the free hosted Vercel/demolab services go down or rate-limit you.
+  Run the workflow once manually from the Actions tab to generate them the first time.
+-->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AngeloGeno&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff00cc&icon_color=00fff2" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloGeno&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff00cc" height="165" />
+<img src="profile/stats.svg" height="165" />
+<img src="profile/top-langs.svg" height="165" />
 </p>
-
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=AngeloGeno&theme=tokyonight&hide_border=true&background=0d1117&ring=ff00cc&fire=00fff2" />
+<img src="profile/streak.svg" />
 </p>
 
 ---
@@ -99,7 +104,7 @@ I'm a **Junior Data Analyst** and **Software Developer** with a passion for solv
 
 - 💼 LinkedIn: [angelo-nkomo](https://www.linkedin.com/in/angelo-nkomo-b05543228/)
 - 📧 Email: nhlanhlankomo466@gmail.com
-- Website: https://angelogeno.github.io/Angelo-Portfolio-Website/
+- 🌐 Website: angelogeno.github.io/Angelo-Portfolio-Website
 
 ---
 
