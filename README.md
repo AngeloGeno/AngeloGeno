@@ -60,8 +60,7 @@ I'm a **Junior Data Analyst** and **Software Developer** with a passion for solv
 </p>
 
 ---
-
-## 🐍 Contribution Snake
+🐍 Contribution Snake
 
 <!--
   Requires a one-time GitHub Action setup — see the workflow file
@@ -75,7 +74,6 @@ I'm a **Junior Data Analyst** and **Software Developer** with a passion for solv
 <img alt="github-snake" src="https://raw.githubusercontent.com/AngeloGeno/AngeloGeno/output/github-snake.svg" />
 </picture>
 </p>
-
 ---
 
 ## ⚡ Live Coding Stats (WakaTime)
