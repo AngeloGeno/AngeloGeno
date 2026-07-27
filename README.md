@@ -45,6 +45,7 @@ I'm a **Junior Data Analyst** and **Software Developer** with a passion for solv
 <!--
   Self-hosted via .github/workflows/stats.yml (stats-organization/github-readme-stats-action
   and DenverCoder1/github-readme-streak-stats). Regenerates daily and on every push, so these
+  
   cards keep working even if the free hosted Vercel/demolab services go down or rate-limit you.
   Run the workflow once manually from the Actions tab to generate them the first time.
 -->
